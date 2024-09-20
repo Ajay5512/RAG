@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pymongo
+python-dotenv
+tqdm
+pytest
+pandas
+elasticsearch
+sentence-transformers
